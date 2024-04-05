@@ -1,8 +1,10 @@
 {
   "name": "zircon-ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "main": "./dist/zircon-ui.umd.cjs",
   "module": "./dist/zircon-ui.js",
   "exports": {
